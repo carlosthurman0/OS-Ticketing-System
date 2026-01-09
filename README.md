@@ -1,6 +1,5 @@
 Hello, I'm Carlos Thurman, an aspiring IT Proffessionsal
-IT project: osTicket:https://github.com/carlosthurman0/OS-Ticket-Process/edit/main/README.md
-# OS-Ticketing-System
+# OS-Ticketing-System:https://github.com/carlosthurman0/OS-Ticket-Process/edit/main/README.md
 Open-source osTicket lab demonstrating help desk ticket workflows, SLAs, and troubleshooting.
 # osTicket Help Desk Lab (Open Source Ticketing System)
 
