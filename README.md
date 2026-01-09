@@ -32,4 +32,3 @@ Step-by-step setup and workflows are documented in `/docs`.
 
 ## Screenshots
 Screenshots are included in `/screenshots` to demonstrate functionality.
-screenshots/-ticket-created.png
