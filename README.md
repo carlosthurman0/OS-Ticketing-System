@@ -4,7 +4,7 @@ Open-source osTicket lab demonstrating help desk ticket workflows, SLAs, and tro
 # osTicket Help Desk Lab (Open Source Ticketing System)
 
 ## Overview
-This lab demonstrates how a help desk ticketing system is installed, configured, and used to support users.
+This lab demonstrates how a help desk ticketing system configured and used to support users.
 It simulates real-world IT support workflows including ticket creation, prioritization, escalation, and resolution.
 
 ## What I Built
